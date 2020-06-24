@@ -5,12 +5,24 @@ body {
     font-family: Verdana, sans-serif;
 }
 
-header h1 {
+.header h1 {
     font-size: 50px;
     font-weight: normal;
 }
     
-header a {
+.header a {
     color: aquamarine;
     font-size: 16px;    
 }
+
+.main h2 {
+    font-weight: 300;
+    font-size:42px;
+}
+
+.main h4 {
+    font-size: 21px;
+    color: grey;
+    font-weight: 300;
+}
+
